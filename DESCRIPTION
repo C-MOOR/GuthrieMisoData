@@ -7,25 +7,18 @@ Authors@R:
              email = "jcarpinteyro@carnegiescience.edu", 
              role = c("aut", "cre"),
              comment = c(ORCID = "0009-0005-2865-1475")),
-      person(given = "Katie", 
-             family = "Cox",
-             email = "katherinecox@jhu.edu",
-             role = c("aut")),
       person(given = "Sayumi",
              family = "York",
              email = "joclee@bu.edu",
-             role = c("aut")),
-      person(given = "Fred",
-             family = "Tan",
-             email = "tan@carnegiescience.edu",
              role = c("aut")))
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.3.1
+RoxygenNote: 7.3.2
 Depends: 
-    R (>= 2.10)
+    R (>= 3.5)
 LazyData: true
 Imports: 
+    phyloseq,
     tibble

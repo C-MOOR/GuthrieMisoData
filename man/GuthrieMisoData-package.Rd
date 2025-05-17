@@ -13,9 +13,7 @@ What the package does (one paragraph).
 
 Authors:
 \itemize{
-  \item Katie Cox \email{katherinecox@jhu.edu}
   \item Sayumi York \email{joclee@bu.edu}
-  \item Fred Tan \email{tan@carnegiescience.edu}
 }
 
 }
